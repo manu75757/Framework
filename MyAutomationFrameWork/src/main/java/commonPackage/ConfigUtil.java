@@ -7,7 +7,7 @@ import java.util.Properties;
 
 public class ConfigUtil {
 	
-	final String config_file="C:\\Users\\singh\\eclipse-workspace\\MyAutomationFrameWork\\Resources\\Config.properties";
+	final String config_file="C:/Users/singh/git/repository/MyAutomationFrameWork/Resources/Config.properties";
     public String URL;
     public String browser;
     
@@ -25,14 +25,10 @@ public class ConfigUtil {
     
     
     
- public static void main(String[] args) throws FileNotFoundException, IOException {
-	 
-	 ConfigUtil c =new ConfigUtil();
-	 
-	
+ 
 }
 	
-}
+
 	
 
 
